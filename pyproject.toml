@@ -1,0 +1,15 @@
+[project]
+name = "shiny-ch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "logging>=0.4.9.6",
+    "pandas>=3.0.2",
+    "pathlib>=1.0.1",
+    "plotly>=6.7.0",
+    "pyarrow>=23.0.1",
+    "shiny>=1.6.0",
+    "shinywidgets>=0.7.2",
+]
